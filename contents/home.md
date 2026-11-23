@@ -1,19 +1,16 @@
 
-
 #### Email
 <code></code>  
-
 
 #### Education
 **Hunan University of Finance and Economics**, Undergraduate in Economic Statistics (Aug 2023 – Jun 2027)  
 • GPA: 3.90/4.0 
 • Weighted average score：93.01/100
 
-
 #### Research Interests
 Deep Learning, Artificial Intelligence, LLMs(Large Language Models)
 
-CV
+#### CV1 ####
 Li Zhetong, male, Han nationality, born in September 2005, is a probationary member of the Communist Party of China and a native of Chenzhou City, Hunan Province. He enrolled in September 2023 and is currently studying at Hunan University of Finance and Economics, School of Big Data and Statistics, majoring in Economic Statistics for the class of 2023. He serves as the secretary of the class Youth League branch. In 2024, won the 19th "Furong Students · Role Model Power" Academic Innovation Award.
 
 Study diligently and think carefully, hone the ability to gain knowledge
@@ -55,5 +52,19 @@ Youth shines through hard work, and life sublimates through struggle. "Li Zheton
 “问渠那得清如许？为有源头活水来。”科研创新正是李哲彤孜孜不倦追求的“源头活水”。在科研方面，李哲彤同学积极投身学术研究，成果显著。截至2025年9月，李哲彤已发表SCI论文1篇（被引10次）、EI论文2篇、中文普刊论文3篇、CPCI及中文会议论文各1篇，并主持一项国家级大学生创新创业训练计划项目，展现出了较强的科研组织与执行能力。李哲彤还以第一著权人身份获得3项软件著作权，并申请1项实用新型专利，多次在校内外学术平台分享研究成果。因学术表现突出，在2024年荣获第十九届“芙蓉学子·学术创新奖”，是其科研潜力和严谨学术态度的有力证明。
 
 “青春由磨砺而出彩，人生因奋斗而升华。”李哲彤以其实际行动诠释了新时代青年全面发展、追求卓越的精神。展望未来，李哲彤将继续脚踏实地，奋楫争先，努力成长为担当民族复兴大任的时代新人。
+
+#### CV2 ####
+Sanglin Zhao
+赵桑林 2003-
+**Hunan University of Finance and Economics**, Undergraduate in EM (Aug 2022 – Jun 2026)  
+• GPA: 2.96/4.0 
+• Weighted average score：79.6/100
+Zhao Sanglin, a member of the China Society for Technology and Economics.He is a 2022 undergraduate graduate majoring in Engineering Management from Hunan University of Finance and Economics.
+赵桑林，共青团员。中国技术经济学会会员，湖南财政经济学院工程管理专业22级本科毕业生。
+身高：194cm
+Height: 194cm
+
+
+
 
 
