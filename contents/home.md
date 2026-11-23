@@ -54,14 +54,23 @@ Youth shines through hard work, and life sublimates through struggle. "Li Zheton
 “青春由磨砺而出彩，人生因奋斗而升华。”李哲彤以其实际行动诠释了新时代青年全面发展、追求卓越的精神。展望未来，李哲彤将继续脚踏实地，奋楫争先，努力成长为担当民族复兴大任的时代新人。
 
 #### CV2 ####
+
 Sanglin Zhao
+
 赵桑林 2003-
+
 **Hunan University of Finance and Economics**, Undergraduate in EM (Aug 2022 – Jun 2026)  
 • GPA: 2.96/4.0 
 • Weighted average score：79.6/100
+
 Zhao Sanglin, a member of the China Society for Technology and Economics.He is a 2022 undergraduate graduate majoring in Engineering Management from Hunan University of Finance and Economics.
+
 赵桑林，共青团员。中国技术经济学会会员，湖南财政经济学院工程管理专业22级本科毕业生。
+
+兴趣爱好：热爱运动，阅读。
+
 身高：194cm
+
 Height: 194cm
 
 
