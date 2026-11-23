@@ -57,5 +57,3 @@ Youth shines through hard work, and life sublimates through struggle. "Li Zheton
 “青春由磨砺而出彩，人生因奋斗而升华。”李哲彤以其实际行动诠释了新时代青年全面发展、追求卓越的精神。展望未来，李哲彤将继续脚踏实地，奋楫争先，努力成长为担当民族复兴大任的时代新人。
 
 
-Height:163cm
-身高：163cm
